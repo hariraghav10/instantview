@@ -1,0 +1,2 @@
+[build]
+command = "npm install --forced && npm run build"
