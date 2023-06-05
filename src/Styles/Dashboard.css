@@ -1,0 +1,162 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.EVSEStatus{
+    margin-top: 60px;
+}
+.EVSE{
+    background-color: rgb(255, 255, 255);
+    width: 95%;
+    padding: 20px 20px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 2px rgba(0, 0, 0, 0.237);
+}
+.connstatus{
+    font-size: 14px;
+}
+
+.count{
+    margin: auto;
+    margin-top: 20px;
+    padding-top:15px ;
+    background-color: rgb(227, 255, 247);
+}
+.title{
+    width: fit-content;
+    margin: auto;
+}
+.statusN{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(227, 255, 247);
+    padding: 5px 4px 20px 4px;
+    width: fit-content;
+
+}
+.EVSEStatusNumber{
+    background-color: rgb(180, 255, 216);
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 4px;
+    width: 100px;
+    padding: 10px 5px;
+    border-radius: 5px;
+}
+.outof{
+    width: fit-content;
+    margin: auto;
+}
+.stat{
+    width: fit-content;
+    margin: auto;
+    font-size: 12px;
+}
+
+.bkcount{
+    margin: auto;
+    margin-top: 20px;
+    padding-top:15px ;
+}
+.flexb{
+    border: 0px solid red;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin-top: 30px;
+    
+}
+.bookingcount{
+    border: 0px solid red;
+    margin-left: 10px;
+    font-size: 20px;
+    background-color: rgb(180, 255, 220);
+    padding: 20px 20px;
+    border-radius: 5px;
+}
+.bookingcount 
+.expect{
+    border: 0px solid red;
+    margin-left: 10px;
+}
+
+.bookstat{
+    display: flex;
+    justify-content:center;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.stateach{
+    background-color: rgb(255, 255, 255);
+    padding: 0px 20px;
+}
+.statn{
+    font-size: 20px;
+    font-weight: 600;
+}
+.bordr{
+    border-right: 1px solid rgba(0, 0, 0, 0.09);
+    padding-right: 40px;
+}
+.bordb{
+    border-right: 1px solid rgba(0, 0, 0, 0.09);
+    border-left: 1px solid rgba(0, 0, 0, 0.09);
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.bordl{
+    border-left: 1px solid rgba(0, 0, 0, 0.09);
+    padding-left: 20px;
+}
+
+.boxx{
+    width: 100%;
+}
+
+
+
+
+
+
+.conn{
+    border-left: 10px solid rgb(249, 255, 166);
+   
+}
+.not{
+    border-left: 10px solid rgb(228, 228, 228);
+}
+.cha{
+    border-left: 10px solid rgb(166, 255, 190);
+}
+.ven{
+    border-left: 10px solid rgb(255, 166, 166);
+}
+
+
+.tablee .css-1pclhgl-MuiTable-root {
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width:fit-content;
+}
+.tablee .css-1bhpkcd-MuiTableCell-root.MuiTableCell-body {
+    
+    font-size: 12px;
+}
+.tablee .css-1wvnaxz-MuiTableCell-root.MuiTableCell-head,.tablee .css-1nslmh4-MuiTableCell-root.MuiTableCell-head{
+    background-color: rgb(166, 255, 190);
+    color: rgb(0, 78, 29);
+    font-weight: 400;
+}
+.colomm{
+   
+    width: fit-content;
+    border: 0px solid red;
+    font-size: 10px;
+}
